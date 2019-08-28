@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dee7f18d-8c4f-4d92-a5e5-212f056f4261" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/installmodules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/installmodules.py" beforeDir="false" afterPath="$PROJECT_DIR$/installmodules.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,14 @@
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/InstallModules.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -40,21 +47,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/InstallModules.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1972" />
-    <option name="y" value="53" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1913" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -76,6 +72,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -95,6 +92,28 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="pytest for InstallModules.test_open_install_file" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="InstallModules" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;InstallModules.test_open_install_file&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for InstallModules.test_open_install_file" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -108,12 +127,44 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 03m 55s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 05m 02s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 08m 48s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 10m 25s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 11m 16s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 34m 49s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 44m 02s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 45m 33s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 46m 52s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 48m 20s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1972" y="53" width="1936" height="1056" extended-state="1" />
+    <frame x="1913" y="0" width="1934" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -121,7 +172,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46061268" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -139,7 +190,14 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/InstallModules.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
