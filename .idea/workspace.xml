@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/InstallModules.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="408">
+              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -93,7 +93,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="pytest for InstallModules.test_open_install_file" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for InstallModules.test_install_auto" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="InstallModules" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,13 +104,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;InstallModules.test_open_install_file&quot;" />
+      <option name="_new_target" value="&quot;InstallModules.test_install_auto&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for InstallModules.test_open_install_file" />
+        <item itemvalue="Python tests.pytest for InstallModules.test_install_auto" />
       </list>
     </recent_temporary>
   </component>
@@ -125,30 +125,17 @@
       <option name="presentableId" value="Default" />
       <updated>1565790019585</updated>
     </task>
+    <task id="LOCAL-00001" summary="инсталляция модуля Авто">
+      <created>1567011167838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567011167838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 03m 55s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 05m 02s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 08m 48s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 10m 25s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 11m 16s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 34m 49s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 44m 02s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 45m 33s.xml">
       <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
     </history-entry>
@@ -157,6 +144,27 @@
     </history-entry>
     <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 48m 20s.xml">
       <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 51m 54s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 56m 05s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.29 at 12h 48m 20s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.29 at 12h 51m 16s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.29 at 12h 53m 21s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.29 at 12h 54m 59s.xml">
+      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_install_auto - 2019.08.29 at 12h 57m 58s.xml">
+      <configuration name="pytest for InstallModules.test_install_auto" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -182,6 +190,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="инсталляция модуля Авто" />
+    <option name="LAST_COMMIT_MESSAGE" value="инсталляция модуля Авто" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -191,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/InstallModules.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="408">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>

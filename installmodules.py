@@ -19,6 +19,7 @@ def test_install_auto():
     dlg.Подтвердитепарольпользователя_Edit.set_text('auto')
     dlg.Далее.click()
     time.sleep(1)
+    dlg.Парольадминистратора_Edit.set_text('postgres')
     dlg.Далее.click()
     time.sleep(1)
     dlg.Далее.click()
@@ -29,4 +30,3 @@ def test_install_auto():
     time.sleep(30)
     dlg.Завершить.click()
 
-   
