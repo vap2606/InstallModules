@@ -4,7 +4,7 @@ path = "C:\\Program Files (x86)\\ISS\\SecurOS\\Modules\\"
 
 
 def test_install_auto():
-    app = Application(backend="uia").start(r'C:\\SecurOS_Auto_10.4.64.exe')
+    app = Application(backend="uia").start(r'C:\\SecurOS_Auto_10.5.43.exe')
     time.sleep(20)
     app.connect(title='Выберите язык установки')
     dlg = app.window(title="Выберите язык установки")

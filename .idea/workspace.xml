@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dee7f18d-8c4f-4d92-a5e5-212f056f4261" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/installmodules.py" beforeDir="false" afterPath="$PROJECT_DIR$/installmodules.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/InstallModules.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -132,19 +131,17 @@
       <option name="project" value="LOCAL" />
       <updated>1567011167838</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="инсталляция модуля Авто&#10;для системы, в которой Авто еще не ставился, т.е. в PostgreSQL нет БД Auto и Ext">
+      <created>1567073083840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567073083840</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 45m 33s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 46m 52s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 48m 20s.xml">
-      <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_InstallModules_test_open_install_file - 2019.08.28 at 19h 51m 54s.xml">
       <configuration name="pytest for InstallModules.test_open_install_file" configurationId="tests" />
     </history-entry>
@@ -166,13 +163,21 @@
     <history-entry file="pytest_for_InstallModules_test_install_auto - 2019.08.29 at 12h 57m 58s.xml">
       <configuration name="pytest for InstallModules.test_install_auto" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_install_auto - 2019.08.29 at 13h 11m 42s.xml">
+      <configuration name="pytest for InstallModules.test_install_auto" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_install_auto - 2019.08.29 at 13h 13m 06s.xml">
+      <configuration name="pytest for InstallModules.test_install_auto" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_InstallModules_test_install_auto - 2019.08.29 at 19h 55m 32s.xml">
+      <configuration name="pytest for InstallModules.test_install_auto" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="0" width="1934" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -180,7 +185,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46061268" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46061268" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -192,7 +197,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="инсталляция модуля Авто" />
-    <option name="LAST_COMMIT_MESSAGE" value="инсталляция модуля Авто" />
+    <MESSAGE value="инсталляция модуля Авто&#10;для системы, в которой Авто еще не ставился, т.е. в PostgreSQL нет БД Auto и Ext" />
+    <option name="LAST_COMMIT_MESSAGE" value="инсталляция модуля Авто&#10;для системы, в которой Авто еще не ставился, т.е. в PostgreSQL нет БД Auto и Ext" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/__init__.py">
@@ -203,8 +209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/InstallModules.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="289">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>
